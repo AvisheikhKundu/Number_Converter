@@ -1,4 +1,4 @@
-# Number-System-Converter
+# Number-Converter
 Convert any number system to other like Decimal, Binary, Octal, Hexadecimal.
 
 
